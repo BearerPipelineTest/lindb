@@ -28,7 +28,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/jedib0t/go-pretty/v6 v6.3.2
 	github.com/json-iterator/go v1.1.12
-	github.com/klauspost/compress v1.15.6
+	github.com/klauspost/compress v1.15.9
 	github.com/lindb/common v0.0.1
 	github.com/lindb/roaring v0.9.2
 	github.com/lithammer/go-jump-consistent-hash v1.0.2
