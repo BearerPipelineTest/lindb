@@ -26,7 +26,7 @@ require (
 	github.com/google/uuid v1.1.2
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/hashicorp/go-multierror v1.1.1
-	github.com/jedib0t/go-pretty/v6 v6.3.2
+	github.com/jedib0t/go-pretty/v6 v6.3.6
 	github.com/json-iterator/go v1.1.12
 	github.com/klauspost/compress v1.15.6
 	github.com/lindb/common v0.0.1
